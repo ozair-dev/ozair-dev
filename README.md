@@ -3,6 +3,7 @@
 Hey 👋, Ozair here. I am a self taught full stack developer who has been learning and implementing web related technologies for over a year now. I like to to contribute to open source projects in my free time.
 - 👀 I’m interested in tech related stuff
 - 💞️ I’m looking to collaborate on project related to web dev
+- 📬How to reach me muh.ozair@gmail.com
 
 ## Technologies I've worked with
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
