@@ -1,4 +1,4 @@
-# Welcome to my profile
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
 Hey 👋, Ozair here. I am a self taught full stack developer who has been learning and implementing web related technologies for over a year now. I like to to contribute to open source projects in my free time.
 - 👀 I’m interested in ...
@@ -26,7 +26,6 @@ Hey 👋, Ozair here. I am a self taught full stack developer who has been learn
 
 [![Ozair's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozair-dev&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ozair-dev.ozair-dev)
