@@ -1,7 +1,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
 Hey 👋, Ozair here. I am a self taught full stack developer who has been learning and implementing web related technologies for over a year now. I like to to contribute to open source projects in my free time.
-- 📬How to reach me muh.ozair@gmail.com
+- 📬 How to reach me muh.ozair@gmail.com
 
 ## Technologies I've worked with
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
