@@ -23,9 +23,9 @@ Hey 👋, Ozair here. I am a self taught full stack developer who has been learn
 
 
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<!-- <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/ozair-dev?template=classic&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/ozair-dev?template=classic&config.timezone=America%2FToronto) -->
 
   <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
@@ -33,7 +33,7 @@ Hey 👋, Ozair here. I am a self taught full stack developer who has been learn
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/ozair_twi)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ozair-dev)
   
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) -->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
